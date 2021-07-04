@@ -248,6 +248,9 @@ target_sentence = sf.transfer(source_sentence, inference_on=0, quality_filter=0.
 - The positive <=> negative dataset was generated using ideas mentioned in reference paper 3
 - Fined tuned on T5 on a Tesla T4 GPU and it took ~2 hours to train each of the above models with batch_size = 16 and epochs = 5.(Will share training args shortly)
 
+## Note on commercial use
+- Models prithivida/informal_to_formal_styletransfer and prithivida/formal_to_informal_styletransfer are NOT intended for commercial usage.
+
 ## Benchmark
 - TBD
 
