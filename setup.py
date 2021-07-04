@@ -4,7 +4,7 @@ setuptools.setup(
     name="styleformer",
     version="0.1",
     author="Prithiviraj Damodaran",
-    author_email="d.prithiviraj@gmail.com",
+    author_email="",
     description="Styleformer",
     long_description="A Neural Language Style Transfer framework to transfer natural language text smoothly between fine-grained language styles like formal/casual, active/passive, and many more. Created by Prithiviraj Damodaran. Open to pull requests and other forms of collaboration.",
     url="https://github.com/PrithivirajDamodaran/Styleformer.git",
